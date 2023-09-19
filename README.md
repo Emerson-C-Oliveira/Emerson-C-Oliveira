@@ -27,4 +27,4 @@
     <a href="https://discord.gg/U6X87eX6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-    ![Snake animation](https://github-readme-stats.vercel.app/api?username=Emerson-C-Oliveira&show_icons=true&th)
+![Snake animation](https://github.com/Emerson-C-Oliveira/Emerson-C-Oliveira/blob/output/github-contribution-grid-snake.svg)
