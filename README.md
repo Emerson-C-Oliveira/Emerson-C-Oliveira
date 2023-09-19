@@ -7,9 +7,6 @@
 
 - 🔭 Hoje trabalho estudo e faço projetos em Ciência de Dados
 - 🌱 Estudando Machine Learning, I.A., Estatística
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 Contate-me no e-mail: emerson_uo@hotmail.com
 - 😄 Pronouns: ele/dele
 -->
