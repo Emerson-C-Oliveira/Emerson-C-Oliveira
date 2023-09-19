@@ -5,6 +5,7 @@
 -->
 <div> 
     <a href="https://github.com/Emerson-C-Oliveira">
+    <a href="https://sites.google.com/view/emerson-oliveira-portfolio" target="Portfólio"><img width="180" height="180" src="https://img.icons8.com/plasticine/100/resume.png" alt="resume"/></a> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-C-Oliveira&show_icons=true&theme=dark&include_all_commits=false&count_private=false"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-C-Oliveira&layout=compact&langs_count=16&theme=dark"/>
 </div>
