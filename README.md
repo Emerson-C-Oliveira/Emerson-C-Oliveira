@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu sou  👋
+<div> 
+    <a href="https://github.com/Emerson-C-Oliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emerson-C-Oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=tue"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-C-Oliveira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-<!--
-**Emerson-C-Oliveira/Emerson-C-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Hoje trabalho estudo e faço projetos em Ciência de Dados
+- 🌱 Estudando Machine Learning, I.A., Estatística
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Contate-me no e-mail: emerson_uo@hotmail.com
+- 😄 Pronouns: ele/dele
 -->
