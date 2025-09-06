@@ -1,5 +1,5 @@
 ### Olá! Eu sou Emerson Carlos de Oliveira 👋
-- Advogado em transição para Ciência de Dados 📊
+- Engenheiro de Software e Advogado em transição para Ciência de Dados 📊
 - Apaixonado por insights de dados e resolução de problemas 💡
 - Aprendendo e crescendo constantemente 🚀
 -->
